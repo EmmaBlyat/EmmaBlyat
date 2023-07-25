@@ -1,6 +1,6 @@
 ## Emma | Programmer & Content Creator
 
-👋 Hey there! I'm Emma, a passionate programmer, and content creator based in [Your Location]. Welcome to my GitHub profile!
+👋 Hey there! I'm Emma, a passionate programmer, and content creator based in Vienna, Austria. Welcome to my GitHub profile!
 
 ### About Me
 
